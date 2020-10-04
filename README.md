@@ -4,8 +4,10 @@ Quantum principal component analysis (qPCA) is the quantum version of principal 
 This exact quantum principal component analysis algorithm, which screens the data components through the threshold, rather than output all components of data.
 # Description
 We implemented our qPCA algorithm on the IBM quantum computing platform: IBM Quantum Experience.
-* QPCA/a_QPCA_ljz_4_4.ipynb describes the qPCA of the matrix 4×4. 
-* a_ljz_pcathreshold.ipynb, b_ljz_pcathreshold.ipynb## describes the qPCA of the matrix 2×2. 
+* QPCA/a_QPCA_ljz_4_4.ipynb 
+describes the qPCA of the matrix 4×4. 
+* a_ljz_pcathreshold.ipynb, b_ljz_pcathreshold.ipynb 
+describes the qPCA of the matrix 2×2. 
 # Tools and libraries
 * Numpy
 * Math
